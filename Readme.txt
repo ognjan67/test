@@ -2,6 +2,5 @@
 test za git...
 
 adfasdfas
-fasdf
-sad
+promjena 
 fsda
